@@ -20,7 +20,7 @@ function displayRSS(x) {
     if (itemNum == 0) {
         list.innerHTML = "<li><h3>NO DATA...</h3></li>"
     } else {
-        for (let i = 0; i < 12; i++) {
+        for (let i = 0; i < itemNum; i++) {
             let li = document.createElement('div');
             li.className = "listItem";
             li.innerHTML = `
@@ -42,24 +42,6 @@ function displayRSS(x) {
     }
 }
 
-function searchVideo() {
-    var input, filter, ul, li, a, i, txtValue;
-    input = document.getElementById('myInput');
-    filter = input.value.toUpperCase();
-    ul = document.getElementById("item");
-    li = ul.getElementsByTagName('div');
-  
-    // Loop through all list items, and hide those who don't match the search query
-    for (i = 0; i < li.length; i++) {
-      a = li[i].getElementsByTagName("a")[0];
-      txtValue = a.textContent || a.innerText;
-      if (txtValue.toUpperCase().indexOf(filter) > -1) {
-        li[i].style.display = "";
-      } else {
-        li[i].style.display = "none";
-      }
-    }
-}
 
 
 /* */

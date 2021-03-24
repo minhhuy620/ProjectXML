@@ -2,117 +2,115 @@
 <videostore>
     <category>
         <name>My Favorite Mucic Video</name>
-        <videos>
-            <video>
-                <song>Sia - Cheap Thrills</song>
-                <channelname>Loku</channelname>
-                <imgmain>https://i.ytimg.com/vi/YOrMAW4pKuA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=rs=AOn4CLDmMTLURak7j8zswYIKyeVVjhxQDAA</imgmain>
-                <url>https://www.youtube.com/embed/PonUS87Yeqw</url>
-                <img>http://unsplash.it/36/36?gravity=center</img>
-                <views>50M</views>
-                <time>1 week ago</time>
-            </video>
-            <video>
-                <song>Sia - Unstoppable (Lyrics)</song>
-                <channelname>Loku</channelname>
-                <imgmain>https://i.ytimg.com/vi/YOrMAW4pKuA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=rs=AOn4CLDmMTLURak7j8zswYIKyeVVjhxQDAA</imgmain>
-                <url>https://www.youtube.com/embed/h3h035Eyz5A</url>
-                <img>http://unsplash.it/36/36?gravity=center</img>
-                <views>50M</views>
-                <time>1 week ago</time>
-            </video>
-            <video>
-                <song>ZAYN and Sia - Dusk Till Dawn (Lyrics)</song>
-                <channelname>7clouds</channelname>
-                <imgmain>https://i.ytimg.com/vi/YOrMAW4pKuA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=rs=AOn4CLDmMTLURak7j8zswYIKyeVVjhxQDAA</imgmain>
-                <url>https://www.youtube.com/embed/p-eS-_olx9M</url>
-                <img>http://unsplash.it/36/36?gravity=center</img>
-                <views>50M</views>
-                <time>1 week ago</time>
-            </video>
-            <video>
-                <song>Sasha Sloan - Dancing With Your Ghost</song>
-                <channelname>Sasha Sloan</channelname>
-                <imgmain>https://i.ytimg.com/vi/YOrMAW4pKuA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=rs=AOn4CLDmMTLURak7j8zswYIKyeVVjhxQDAA</imgmain>
-                <url>https://www.youtube.com/embed/Qzc_aX8c8g4</url>
-                <img>http://unsplash.it/36/36?gravity=center</img>
-                <views>50M</views>
-                <time>1 week ago</time>
-            </video>
-            <video>
-                <song>Legends Never Die (ft. Against The Current) </song>
-                <channelname>League of Legends</channelname>
-                <imgmain>https://i.ytimg.com/vi/YOrMAW4pKuA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=rs=AOn4CLDmMTLURak7j8zswYIKyeVVjhxQDAA</imgmain>
-                <url>https://www.youtube.com/embed/4Q46xYqUwZQ</url>
-                <img>http://unsplash.it/36/36?gravity=center</img>
-                <views>170M</views>
-                <time>15 Spet 2017</time>
-            </video>
-            <video>
-                <song>Carly Rae Jepsen - 「I Really Like You」(Celeina Ann Cover)</song>
-                <channelname>Celeina Ann's channel</channelname>
-                <imgmain>https://i.ytimg.com/vi/YOrMAW4pKuA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=rs=AOn4CLDmMTLURak7j8zswYIKyeVVjhxQDAA</imgmain>
-                <url>https://www.youtube.com/embed/w5tWYmIOWGk</url>
-                <img>http://unsplash.it/36/36?gravity=center</img>
-                <views>50M</views>
-                <time>1 week ago</time>
-            </video>
-            <!--6-->
-            <video>
-                <song>Carly Rae Jepsen - 「I Really Like You」(Celeina Ann Cover)</song>
-                <channelname>Celeina Ann's channel</channelname>
-                <imgmain>https://i.ytimg.com/vi/YOrMAW4pKuA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=rs=AOn4CLDmMTLURak7j8zswYIKyeVVjhxQDAA</imgmain>
-                <url>https://www.youtube.com/embed/GYFJjwXtsU4</url>
-                <img>http://unsplash.it/36/36?gravity=center</img>
-                <views>50M</views>
-                <time>1 week ago</time>
-            </video>
-            <!--7-->
-            <video>
-                <song>Carly Rae Jepsen - 「I Really Like You」(Celeina Ann Cover)</song>
-                <channelname>Celeina Ann's channel</channelname>
-                <imgmain>https://i.ytimg.com/vi/YOrMAW4pKuA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=rs=AOn4CLDmMTLURak7j8zswYIKyeVVjhxQDAA</imgmain>
-                <url>https://www.youtube.com/embed/Q0bnAmfGQC8</url>
-                <img>http://unsplash.it/36/36?gravity=center</img>
-                <views>50M</views>
-                <time>1 week ago</time>
-            </video>
-            <video>
-                <song>Carly Rae Jepsen - 「I Really Like You」(Celeina Ann Cover)</song>
-                <channelname>Celeina Ann's channel</channelname>
-                <imgmain>https://i.ytimg.com/vi/YOrMAW4pKuA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=rs=AOn4CLDmMTLURak7j8zswYIKyeVVjhxQDAA</imgmain>
-                <url>https://www.youtube.com/embed/Tg1VcwH3gpY?list=RDTg1VcwH3gpY</url>
-                <img>http://unsplash.it/36/36?gravity=center</img>
-                <views>50M</views>
-                <time>1 week ago</time>
-            </video>
-            <video>
-                <song>Carly Rae Jepsen - 「I Really Like You」(Celeina Ann Cover)</song>
-                <channelname>Celeina Ann's channel</channelname>
-                <imgmain>https://i.ytimg.com/vi/YOrMAW4pKuA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=rs=AOn4CLDmMTLURak7j8zswYIKyeVVjhxQDAA</imgmain>
-                <url>https://www.youtube.com/embed/AzdtaVfAj9A</url>
-                <img>http://unsplash.it/36/36?gravity=center</img>
-                <views>50M</views>
-                <time>1 week ago</time>
-            </video>
-            <video>
-                <song>Carly Rae Jepsen - 「I Really Like You」(Celeina Ann Cover)</song>
-                <channelname>Celeina Ann's channel</channelname>
-                <imgmain>https://i.ytimg.com/vi/YOrMAW4pKuA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=rs=AOn4CLDmMTLURak7j8zswYIKyeVVjhxQDAA</imgmain>
-                <url>https://www.youtube.com/embed/Tg1VcwH3gpY?list=RDTg1VcwH3gpY</url>
-                <img>http://unsplash.it/36/36?gravity=center</img>
-                <views>50M</views>
-                <time>1 week ago</time>
-            </video>
-            <video>
-                <song>Carly Rae Jepsen - 「I Really Like You」(Celeina Ann Cover)</song>
-                <channelname>Celeina Ann's channel</channelname>
-                <imgmain>https://i.ytimg.com/vi/YOrMAW4pKuA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=rs=AOn4CLDmMTLURak7j8zswYIKyeVVjhxQDAA</imgmain>
-                <url>https://www.youtube.com/embed/Tg1VcwH3gpY?list=RDTg1VcwH3gpY</url>
-                <img>http://unsplash.it/36/36?gravity=center</img>
-                <views>50M</views>
-                <time>1 week ago</time>
-            </video>
-        </videos>
-    </category>
+        <!-- 1 -->
+        <video>
+            <song>Sia - Cheap Thrills</song>
+            <channelname>Loku</channelname>
+            <url>https://www.youtube.com/embed/PonUS87Yeqw</url>
+            <img>http://unsplash.it/36/36?gravity=center</img>
+            <views>20M</views>
+            <time>1 week ago</time>
+        </video>
+        <!-- 2 -->
+        <video>
+            <song>Sia - Unstoppable (Lyrics)</song>
+            <channelname>Loku</channelname>
+            <url>https://www.youtube.com/embed/h3h035Eyz5A</url>
+            <img>http://unsplash.it/36/36?gravity=center</img>
+            <views>100M</views>
+            <time>1 week ago</time>
+        </video>
+        <!-- 3 -->
+        <video>
+            <song>ZAYN and Sia - Dusk Till Dawn (Lyrics)</song>
+            <channelname>7clouds</channelname>
+            <url>https://www.youtube.com/embed/p-eS-_olx9M</url>
+            <img>http://unsplash.it/36/36?gravity=center</img>
+            <views>60M</views>
+            <time>1 week ago</time>
+        </video>
+        <!-- 4 -->
+        <video>
+            <song>Sasha Sloan - Dancing With Your Ghost</song>
+            <channelname>Sasha Sloan</channelname>
+            <url>https://www.youtube.com/embed/Qzc_aX8c8g4</url>
+            <img>http://unsplash.it/36/36?gravity=center</img>
+            <views>50M</views>
+            <time>1 week ago</time>
+        </video>
+        <!-- 5 -->
+        <video>
+            <song>Legends Never Die (ft. Against The Current) </song>
+            <channelname>League of Legends</channelname>
+            
+            <url>https://www.youtube.com/embed/4Q46xYqUwZQ</url>
+            <img>http://unsplash.it/36/36?gravity=center</img>
+            <views>170M</views>
+            <time>15 Spet 2017</time>
+        </video>
+        <!-- 6 -->
+        <video>
+            <song>Imagine Dragons - On Top Of The World</song>
+            <channelname>Imagine Dragons</channelname>
+            <url>https://www.youtube.com/embed/w5tWYmIOWGk</url>
+            <img>http://unsplash.it/36/36?gravity=center</img>
+            <views>288,718,298</views>
+            <time>1 week ago</time>
+        </video>
+        <!--7-->
+        <video>
+            <song>Seven Nation Army</song>
+            <channelname>Gape Prusa</channelname>
+            <url>https://www.youtube.com/embed/GYFJjwXtsU4</url>
+            <img>http://unsplash.it/36/36?gravity=center</img>
+            <views>174,867,563</views>
+            <time>1 week ago</time>
+        </video>
+        <!--8-->
+        <video>
+            <song>Lukas Graham - 7 Years</song>
+            <channelname>7clouds</channelname>
+            <url>https://www.youtube.com/embed/Q0bnAmfGQC8</url>
+            <img>http://unsplash.it/36/36?gravity=center</img>
+            <views>83,992,678</views>
+            <time>1 week ago</time>
+        </video>
+        <!-- 9 -->
+        <video>
+            <song>Carly Rae Jepsen - 「I Really Like You」</song>
+            <channelname>Celeina Ann's channel</channelname>
+            <url>https://www.youtube.com/embed/Tg1VcwH3gpY?list=RDTg1VcwH3gpY</url>
+            <img>http://unsplash.it/36/36?gravity=center</img>
+            <views>10M</views>
+            <time>1 week ago</time>
+        </video>
+        <!-- 10 -->
+        <video>
+            <song>Phịch Thủ Tương Lai</song>
+            <channelname>Celeina Ann's channel</channelname>
+            <url>https://www.youtube.com/embed/AzdtaVfAj9A</url>
+            <img>http://unsplash.it/36/36?gravity=center</img>
+            <views>90M</views>
+            <time>1 week ago</time>
+        </video>
+        <!-- 11 -->
+        <video>
+            <song>Carly Rae Jepsen - 「I Really Like You」</song>
+            <channelname>Celeina Ann's channel</channelname>
+            <url>https://www.youtube.com/embed/Tg1VcwH3gpY?list=RDTg1VcwH3gpY</url>
+            <img>http://unsplash.it/36/36?gravity=center</img>
+            <views>1M</views>
+            <time>1 week ago</time>
+        </video>
+        <!-- 12 -->
+        <video>
+            <song>Carly Rae Jepsen - 「I Really Like You」</song>
+            <channelname>Celeina Ann's channel</channelname>
+            <url>https://www.youtube.com/embed/Tg1VcwH3gpY?list=RDTg1VcwH3gpY</url>
+            <img>http://unsplash.it/36/36?gravity=center</img>
+            <views>24M</views>
+            <time>1 week ago</time>
+        </video>
+        <!-- 13 -->
+    <video><song>NHẠC TRẺ REMIX 2021 HAY NHẤT HIỆN NAY</song><channelname>Foundation</channelname><url>https://www.youtube.com/embed/RMLP-D2-BWQ</url><img>https://yt3.ggpht.com/ytc/AAUvwnjeg95QylDm1YeQDazGVNOcLer97UiICCeNdT26xg=s48-c-k-c0x00ffffff-no-rj</img><views>37,303</views><time>Mar 24, 2021</time></video><video><song>Ngàn Lần Anh Yếu Đuối... Chẳng Thể Tìm Được Em</song><channelname>Hạ Sang</channelname><url>https://www.youtube.com/embed/v6bmyFiF8L8</url><img>https://yt3.ggpht.com/ytc/AAUvwnjXNZk0NJqTK3NAPLg7tzUeCMSM8xChORaf3q1__Q=s48-c-k-c0x00ffffff-no-rj</img><views>8,897,585</views><time>Dec 7, 2020</time></video><video><song>NHẠC TRẺ REMIX 2021 HAY NHẤT HIỆN NAY</song><channelname>Foundation</channelname><url>https://www.youtube.com/embed/zVrBDFbR0Mw</url><img>https://yt3.ggpht.com/ytc/AAUvwnjeg95QylDm1YeQDazGVNOcLer97UiICCeNdT26xg=s48-c-k-c0x00ffffff-no-rj</img><views>524,931 </views><time>Mar 13, 2021</time></video></category>
 </videostore>

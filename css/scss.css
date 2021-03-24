@@ -9,10 +9,17 @@ body {
   font-weight: normal;
   line-height: 1.7;
 }
-
 .imgmain{
   width: 375px;
   height: 201px;
+}
+#form{
+  width: 50%;
+  margin-top: 5%;
+  margin-left: 35%;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
 }
 /*----------------------------------------------------------------*/
 .header {
@@ -22,7 +29,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: rgb(247, 247, 247);
+  background-color: rgb(243, 242, 242);
 }
 
 .video-section {
@@ -92,7 +99,7 @@ body {
 }
 
 .videos {
-  background-color: #f8f8f8;
+  background-color: #ffffff;
 }
 
 .categories {
@@ -189,7 +196,6 @@ body {
 /*--Sidebar------------------------------------------------------*/
 #main {
   margin-left: 0px;
-  
 }
 
 #sidebar {
@@ -205,6 +211,7 @@ body {
   padding: 0px;
 }
 .sidebar-sub{
+  height: 99.5%;
   overflow-y: scroll;
 }
 #sidebar li{
